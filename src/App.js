@@ -19,6 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <hr>
+      <h2 align="center">My external IP-address:</h2>
+      <h2 align="center">Test of revert</h2>
     </div>
   );
 }
