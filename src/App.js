@@ -18,10 +18,10 @@ function App() {
         >
           Learn React
         </a>
+        <hr></hr>
+        <h2>My external IP-address:</h2>
+        <h2>Test of revert</h2>
       </header>
-      <hr>
-      <h2 align="center">My external IP-address:</h2>
-      <h2 align="center">Test of revert</h2>
     </div>
   );
 }
