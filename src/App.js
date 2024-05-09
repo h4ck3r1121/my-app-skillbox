@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
         <hr></hr>
-        <h2>My external IP-address:</h2>
+        <h2>My IP-address:</h2>
         <h2>Test of revert</h2>
       </header>
     </div>
